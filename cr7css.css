@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background: green;
+}
+
+.menu ul a :hover{
+    color: red;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+}
+
+.info li{
+    display: inline-block;
+    text-align: center;
+}
